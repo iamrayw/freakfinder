@@ -1,6 +1,6 @@
 #!/usr/bin/python
 #freakfinder.py by iamrayw
-#this script works only in *nix
+#this script works only on *nix
 from subprocess import Popen, PIPE
 import subprocess
 import os
